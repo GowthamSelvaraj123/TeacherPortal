@@ -56,7 +56,7 @@ cd teacher-portal</code></pre>
         </li>
         <li>
             <strong>Access the Application:</strong>
-            <p>Open your browser and go to <code>http://localhost:8000</code> (or the port specified by your server).</p>
+            <p>Open your browser and go to <code>http://127.0.0.1:8000/</code> (or the port specified by your server).</p>
         </li>
     </ol>
     <h2>Contributing</h2>
