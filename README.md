@@ -8,7 +8,7 @@
     <ol>
         <li>
             <strong>Clone the Repository:</strong>
-            <pre><code>git clone https://github.com/yourusername/teacher-portal.git
+            <pre><code>git clone [https://github.com/yourusername/teacher-portal.git](https://github.com/GowthamSelvaraj123/TeacherPortal.git)
 cd teacher-portal</code></pre>
         </li>
         <li>
