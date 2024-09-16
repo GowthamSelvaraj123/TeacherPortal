@@ -1,9 +1,33 @@
 <body>
     <h1>Teacher's Portal</h1>
-    <h2>Description</h2>
-    <p>
-        Teacher's Portal is a web application for managing student details and academic grades. It includes features for secure login, registration, and CRUD operations through user-friendly popup forms.
-    </p>
+    <div class="container">
+        <h1>Project Name</h1>
+        <p>This project is a web application developed using Laravel. It includes various functionalities for user authentication and student management.</p>
+        <h2>Technologies Used</h2>
+        <ul>
+            <li><strong>Frontend:</strong> HTML, CSS, Vanilla JavaScript, Tailwind CSS</li>
+            <li><strong>Backend:</strong> PHP, MySQL, XAMPP</li>
+        </ul>
+        <h2>Features</h2>
+        <ul>
+            <li><strong>Login:</strong> Secure login functionality.</li>
+            <li><strong>Register:</strong> User registration functionality.</li>
+            <li><strong>Forgot Password:</strong> Password reset feature.</li>
+            <li><strong>Logout:</strong> Logout functionality.</li>
+            <li><strong>Student Management:</strong>
+                <ul>
+                    <li>Student Listing Pages</li>
+                    <li>Student Edit Popup</li>
+                    <li>Student Add Popup</li>
+                    <li>Student Delete</li>
+                </ul>
+            </li>
+        </ul>
+        <h2>Controller and Model</h2>
+        <ul>
+            <li><strong>TeacherController:</strong> Resource controller for CRUD operations.</li>
+            <li><strong>Teacher Model:</strong> Eloquent model for interacting with the `teachers` table.</li>
+        </ul>
     <h2>Local Installation</h2>
     <ol>
         <li>
