@@ -1,7 +1,6 @@
 <body>
     <h1>Teacher's Portal</h1>
     <div class="container">
-        <h1>Project Name</h1>
         <p>This project is a web application developed using Laravel. It includes various functionalities for user authentication and student management.</p>
         <h2>Technologies Used</h2>
         <ul>
