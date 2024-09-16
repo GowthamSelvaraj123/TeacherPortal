@@ -90,3 +90,36 @@ button.primary-button {
     padding: 15px 80px;
     border-radius: 0px;
 }
+.icon-wrap {
+    position: absolute;
+    height: 98%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    border-right: 1px solid;
+    border-color: rgb(209 213 219 / 95%);
+    z-index: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.input-wrap {
+    position: relative;
+}
+.input-wrap input {
+    padding-left: 50px !important;
+}
+.password-icon-wrap {
+    position: absolute;
+    right: 4px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90%;
+    background-color: white;
+    z-index: 0;
+    top: 50%;
+    transform: translatey(-50%);
+    cursor: pointer;
+}
