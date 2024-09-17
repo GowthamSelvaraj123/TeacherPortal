@@ -70,10 +70,10 @@ cd teacher-portal</code></pre>
             <strong>Start the Development Server:</strong>
             <ul>
                 <li><strong>For Laravel:</strong>
-                    <pre><code>php artisan serve</code></pre>
+                    <pre><code>php artisan serve(normal laravel app)</code></pre>
                 </li>
                 <li><strong>For Node.js (if applicable):</strong>
-                    <pre><code>npm start</code></pre>
+                    <pre><code>npm run dev(vite.js)</code></pre>
                 </li>
             </ul>
         </li>
